@@ -1,4 +1,5 @@
-import java.util.Scanner;
+import java.util.Scanner; //Program mengimpor kelas Scanner dari paket java.util
+// untuk mengambil input dari pengguna melalui konsol.
 
 public class ProjectApp {
 
@@ -203,3 +204,12 @@ public class ProjectApp {
         } while (pil != 0);
     }
 }
+
+/*
+/Program di atas adalah aplikasi konsol sederhana yang memungkinkan pengguna untuk mengakses dan mengendalikan berbagai jenis ponsel
+(Xiaomi, iPhone, Samsung, dan Oppo) dengan menggunakan interface Phone dan kelas-kelas yang mengimplementasikannya.
+Aplikasi ini memiliki menu interaktif yang memungkinkan pengguna memilih ponsel yang akan dioperasikan dan melakukan berbagai tindakan
+seperti menghidupkan ponsel, mematikannya, mengatur volume, dan menampilkan nilai volume.
+
+
+ */
